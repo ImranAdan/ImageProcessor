@@ -52,6 +52,20 @@ Running
 Open Terminal and cd to file
   - make MakeFile
   - ./window
+
+
+## Example - Histogram Equalisation of Lena  
+
+### Before Equalisation ###
+
+![Before_Equalisation](http://i.imgur.com/loALKvl.png) 
+
+
+### After Equalisation ###
+
+![After_Equalisation](http://i.imgur.com/GLKOpLI.png) 
+  
+
   
   
 
