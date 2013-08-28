@@ -1,4 +1,4 @@
-ImageProcessor
+C++ ImageProcessor
 ==============
 
 Image Processing Tool
